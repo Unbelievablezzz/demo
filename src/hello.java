@@ -6,5 +6,7 @@ public class hello {
         list.add(2);
         list.add(1);
         list.forEach(cc-> System.out.println(cc));
+
+        System.out.println("到现在都没弄懂git");
     }
 }
